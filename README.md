@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Eren Kekuc. I am a software engineering student at Kocaeli University.</h1>
-# 🌐 Socials:
+🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/mert-eren-kek%C3%BC%C3%A7-135581209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mert Eren Keküç" height="30" width="40" /></a>
 </p>
