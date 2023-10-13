@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Mert <br>Software engineering student in Kocaeli University<br>📫 How to reach me merterenkekuc@gmail.com
+## Hi 👋 I'm Mert <br>Software engineering student in Kocaeli University<br>📫 How to reach me merterenkekuc@gmail.com
 
 
 ## 🌐 Socials:
