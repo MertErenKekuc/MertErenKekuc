@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi 👋 I'm Mert <br>Software engineering student in Kocaeli University
+## Hi 👋 I'm Mert <br>Software engineering student in Kocaeli University <br> I'm learning React Native and Cyber Security
 
 
 # 🌐 Socials:
