@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Mert</h1>
-<h3>Software engineering student in Kocaeli University.</h3>
+<h3 style="color: green;">Software engineering student in Kocaeli University.</h3>
 
 - 📫 How to reach me **merterenkekuc@gmail.com**
 - 🧠 I'm learning Cyber Security and React Native
