@@ -1,8 +1,7 @@
 <h1 align="left"><a href="Hedef_URL">Hi!👋 I'm Mert</a></h1>
 
-- 💻 Cyber Security
-- 💻 Software engineering student in Kocaeli University.
-- 🧠 I'm learning React Native and Cyber Security
+- 💻 Cyber Security / Penetration Tester
+- 🧠 Software engineering student in Kocaeli University.
 - 📫 How to reach me **merterenkekuc@gmail.com**
 
 <hr>
