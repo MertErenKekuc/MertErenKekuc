@@ -7,7 +7,37 @@
 <hr>
 
 <h2 align="left"><a href="Hedef_URL">Skills</a></h2>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer noopener nofollow">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&color=00599C&logoColor=white" alt="C" style="max-width: 100%;">
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer noopener nofollow">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&color=239120&logoColor=white" alt="C#" style="max-width: 100%;">
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer noopener nofollow">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&color=3776AB&logoColor=white" alt="Python" style="max-width: 100%;">
+  </a>
+  <a href="https://golang.org/" target="_blank" rel="noreferrer noopener nofollow">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&color=00ADD8&logoColor=white" alt="Go" style="max-width: 100%;">
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer noopener nofollow">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&color=61DAFB&logoColor=black" alt="React" style="max-width: 100%;">
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer noopener nofollow">
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&color=61DAFB&logoColor=black" alt="React Native" style="max-width: 100%;">
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer noopener nofollow">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&color=557C94&logoColor=white" alt="Kali Linux" style="max-width: 100%;">
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer noopener nofollow">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&color=FCC624&logoColor=black" alt="Linux" style="max-width: 100%;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener nofollow">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=F7DF1E&logoColor=black" alt="JavaScript" style="max-width: 100%;">
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer noopener nofollow">
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&color=FF6C37&logoColor=white" alt="Burp Suite" style="max-width: 100%;">
+  </a>
 </p>
 
 <hr>
