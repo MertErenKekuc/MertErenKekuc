@@ -62,6 +62,13 @@
 </p>
 <hr>
 
+<!-- Ziyaretçi Sayacı -->
+<p align="left">
+  <a href="https://github.com/merterenkekuc">
+    <img src="https://komarev.com/ghpvc/?username=merterenkekuc&label=Profile+Views&color=ce9927&style=flat" alt="Profile Views">
+  </a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=merterenkekuc&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="merterenkekuc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merterenkekuc&show_icons=true&theme=highcontrast&locale=en" alt="merterenkekuc" /></p>
