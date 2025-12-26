@@ -66,9 +66,3 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=merterenkekuc&label=Profile+Views&color=ce9927&style=flat" />
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=MertErenKekuc&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertErenKekuc&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
-
-
