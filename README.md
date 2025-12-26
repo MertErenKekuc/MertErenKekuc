@@ -67,14 +67,8 @@
   <img src="https://komarev.com/ghpvc/?username=merterenkekuc&label=Profile+Views&color=ce9927&style=flat" />
 </div>
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merterenkekuc&theme=highcontrast)
+<img src="https://github-readme-stats.vercel.app/api?username=MertErenKekuc&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
 
-### 🔝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merterenkekuc&layout=compact&theme=highcontrast)
-
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=merterenkekuc&theme=highcontrast)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertErenKekuc&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
 
