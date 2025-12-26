@@ -62,31 +62,29 @@
 </p>
 <hr>
 
-<!-- Ziyaretçi Sayacı -->
+<!-- Profile Views -->
 <div align="left">
-  <a href="https://github.com/merterenkekuc">
-    <img src="https://komarev.com/ghpvc/?username=merterenkekuc&label=Profile+Views&color=ce9927&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=merterenkekuc&label=Profile+Views&color=ce9927&style=flat" />
 </div>
 
 <br/>
 
-<!-- En Çok Kullanılan Diller -->
+<!-- Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merterenkekuc&layout=compact&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merterenkekuc&layout=compact&theme=highcontrast&cache_seconds=1800" />
 </div>
 
 <br/>
 
-<!-- Genel GitHub İstatistikleri -->
+<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merterenkekuc&show_icons=true&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api?username=merterenkekuc&show_icons=true&theme=highcontrast&cache_seconds=1800" />
 </div>
 
 <br/>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak (STABLE VERSION) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merterenkekuc&theme=highcontrast" />
+  <img src="https://streak-stats.demolab.com/?user=merterenkekuc&theme=highcontrast" />
 </div>
 
