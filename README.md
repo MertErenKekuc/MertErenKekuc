@@ -68,23 +68,21 @@
 </div>
 
 <br/>
+![Profile Views](https://komarev.com/ghpvc/?username=merterenkekuc&label=Profile+Views&color=ce9927&style=flat)
 
-<!-- Top Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merterenkekuc&layout=compact&theme=highcontrast&cache_seconds=1800" />
-</div>
+---
 
-<br/>
+### 🔝 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merterenkekuc&layout=compact&theme=highcontrast)
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merterenkekuc&show_icons=true&theme=highcontrast&cache_seconds=1800" />
-</div>
+---
 
-<br/>
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merterenkekuc&show_icons=true&theme=highcontrast)
 
-<!-- GitHub Streak (STABLE VERSION) -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=merterenkekuc&theme=highcontrast" />
-</div>
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=merterenkekuc&theme=highcontrast)
+
 
