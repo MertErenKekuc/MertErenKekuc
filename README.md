@@ -67,20 +67,12 @@
   <img src="https://komarev.com/ghpvc/?username=merterenkekuc&label=Profile+Views&color=ce9927&style=flat" />
 </div>
 
-<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=merterenkekuc&label=Profile+Views&color=ce9927&style=flat)
-
----
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merterenkekuc&theme=highcontrast)
 
 ### 🔝 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merterenkekuc&layout=compact&theme=highcontrast)
 
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merterenkekuc&show_icons=true&theme=highcontrast)
-
----
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=merterenkekuc&theme=highcontrast)
